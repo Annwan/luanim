@@ -1,5 +1,5 @@
 #+title: Moonim -- animations in Moonscript
 #+author: Antoine "Annwan" Combet
 
-_*/IMPORTANT/*_: This is VERY early WIP. Things dont work, features are lacking, it's bound to change all the time, and docs aren't a thing (or if they are they are outdated).
+*IMPORTANT*: This is VERY early WIP. Things dont work, features are lacking, it's bound to change all the time, and docs aren't a thing (or if they are they are outdated).
 If you want or need something that works right now, go check [[https://www.manim.community/][Manim CE]].
